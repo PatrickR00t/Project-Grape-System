@@ -1,0 +1,326 @@
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe.config
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.Properties.Resources.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindo.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMemoria.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDadosDoUsuario.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCarregando.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDesktop.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGerenciadorDeFicheiros.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmComprarLicença.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConectarWifi.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmInformaçõesDoSistema.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeAntivirus.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmStadoDaSegurança.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAutenticar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalculadora.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\Microsoft.Speech.dll
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesligar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLigar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBlocoDeNotas.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmNavegador.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTermosDeUltilização.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindoInicializar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConfigurações.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAcessibilidade.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmProgramasInstalados.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandoGrape.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMinimizado.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLupa.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLixeira.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDeTransição.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop2.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalcularMédiaEscolar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDefiniçõesDeTela.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrayceInteração.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPersonalizar.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmSalvarArquivos.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAbrirArquivos.resources
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.ResolveComReference.cache
+C:\Users\Anonymous\source\repos\Grape_versão_de_avaliação\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeReprodutorDeMusicas.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe.config
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\Microsoft.Speech.dll
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.ResolveComReference.cache
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAutenticar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindo.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalculadora.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCarregando.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmComprarLicença.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConectarWifi.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDadosDoUsuario.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesligar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGerenciadorDeFicheiros.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeAntivirus.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmInformaçõesDoSistema.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLigar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMemoria.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDesktop.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmStadoDaSegurança.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBlocoDeNotas.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmNavegador.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTermosDeUltilização.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindoInicializar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAcessibilidade.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConfigurações.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalcularMédiaEscolar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandoGrape.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLixeira.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop2.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAbrirArquivos.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDefiniçõesDeTela.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeReprodutorDeMusicas.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrayceInteração.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLupa.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDeTransição.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMinimizado.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPersonalizar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmProgramasInstalados.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmSalvarArquivos.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.Properties.Resources.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEscolher_Programas.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPicGrape.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuCentro.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEncerrar.resources
+C:\Users\Anonymous\source\repos\Grape_Teste 01\Grape_versão_de_avaliação\bin\Debug\ManagedWifi.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe.config
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Microsoft.Speech.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csprojAssemblyReference.cache
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.ResolveComReference.cache
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAutenticar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindo.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalculadora.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCarregando.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmComprarLicença.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConectarWifi.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDadosDoUsuario.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesligar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGerenciadorDeFicheiros.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmInformaçõesDoSistema.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLigar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMemoria.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmStadoDaSegurança.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBlocoDeNotas.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmNavegador.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTermosDeUltilização.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindoInicializar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAcessibilidade.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConfigurações.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalcularMédiaEscolar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandoGrape.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLixeira.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop2.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAbrirArquivos.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDefiniçõesDeTela.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEncerrar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEscolher_Programas.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeReprodutorDeMusicas.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrayceInteração.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLupa.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDeTransição.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuCentro.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPersonalizar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmProgramasInstalados.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmSalvarArquivos.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPicGrape.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.Properties.Resources.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.GenerateResource.cache
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CopyComplete
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe.config
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\ManagedWifi.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Microsoft.Speech.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csprojAssemblyReference.cache
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.ResolveComReference.cache
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAutenticar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindo.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalculadora.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCarregando.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmComprarLicença.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConectarWifi.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDadosDoUsuario.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesligar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGerenciadorDeFicheiros.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeAntivirus.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmInformaçõesDoSistema.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLigar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMemoria.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDesktop.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmStadoDaSegurança.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBlocoDeNotas.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmNavegador.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTermosDeUltilização.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindoInicializar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAcessibilidade.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConfigurações.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalcularMédiaEscolar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandoGrape.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLixeira.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop2.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAbrirArquivos.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDefiniçõesDeTela.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEncerrar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEscolher_Programas.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeReprodutorDeMusicas.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrayceInteração.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLupa.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDeTransição.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMinimizado.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuCentro.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPersonalizar.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmProgramasInstalados.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmSalvarArquivos.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPicGrape.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.GenerateResource.cache
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CopyComplete
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.exe
+C:\Users\Anonymous\Desktop\txt e .bat\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.pdb
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu1.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDespertador.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu2.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu3.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu4.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmWebcam.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmJanelasAbertas.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTSRD.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmReiniciar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.Video.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.xml
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.Video.xml
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapyVideo.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapyDesenhar.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMeuIp.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBloquearPasta.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGeoLocalizacao.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\RestSharp.dll
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\bin\Debug\RestSharp.xml
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTarefasDoDia.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandos.resources
+C:\Users\Anonymous\source\repos\Grape Teste\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEnviar_email.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe.config
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.exe
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Grape_versão_de_avaliação.pdb
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.Video.DirectShow.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.Video.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Microsoft.Speech.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Newtonsoft.Json.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\RestSharp.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.xml
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.Video.xml
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AForge.Video.DirectShow.xml
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Newtonsoft.Json.xml
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\RestSharp.xml
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\Interop.WMPLib.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\bin\Debug\AxInterop.WMPLib.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csprojAssemblyReference.cache
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Interop.WMPLib.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\AxInterop.WMPLib.dll
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.ResolveComReference.cache
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAutenticar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindo.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalculadora.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCarregando.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmComprarLicença.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConectarWifi.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDadosDoUsuario.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesligar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGerenciadorDeFicheiros.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmInformaçõesDoSistema.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLigar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMemoria.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmStadoDaSegurança.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBlocoDeNotas.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmNavegador.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTermosDeUltilização.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBemVindoInicializar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAcessibilidade.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmConfigurações.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCalcularMédiaEscolar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandoGrape.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLixeira.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDesktop2.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmAbrirArquivos.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmBloquearPasta.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmCentralDeComandos.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDefiniçõesDeTela.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmDespertador.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEncerrar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEnviar_email.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmEscolher_Programas.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGeoLocalizacao.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapeReprodutorDeMusicas.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapyDesenhar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrapyVideo.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmGrayceInteração.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmJanelasAbertas.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmLupa.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuDeTransição.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu1.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu2.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu3.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenu4.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMenuCentro.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmMeuIp.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPersonalizar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmProgramasInstalados.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmSalvarArquivos.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmPicGrape.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmReiniciar.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTarefasDoDia.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmTSRD.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.frmWebcam.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.Properties.Resources.resources
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.GenerateResource.cache
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CoreCompileInputs.cache
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.csproj.CopyComplete
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.exe
+H:\Grape Protótipo\Grape_versão_de_avaliação\obj\Debug\Grape_versão_de_avaliação.pdb

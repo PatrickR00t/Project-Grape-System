@@ -1,0 +1,713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{22CDADB1-608C-4245-B889-A529FE7D8A3A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Grape_versão_de_avaliação</RootNamespace>
+    <AssemblyName>Grape_versão_de_avaliação</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="InTheHand.Net.Personal">
+      <HintPath>..\..\..\..\Desktop\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedWifi">
+      <HintPath>..\..\..\..\Desktop\ManagedWifi.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.6.9.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.6.9\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apresentação\frmAutenticar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmAutenticar.Designer.cs">
+      <DependentUpon>frmAutenticar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmBemVindo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmBemVindo.Designer.cs">
+      <DependentUpon>frmBemVindo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmCalculadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmCalculadora.Designer.cs">
+      <DependentUpon>frmCalculadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmCarregando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmCarregando.Designer.cs">
+      <DependentUpon>frmCarregando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmComprarLicença.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmComprarLicença.Designer.cs">
+      <DependentUpon>frmComprarLicença.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmConectarWifi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmConectarWifi.Designer.cs">
+      <DependentUpon>frmConectarWifi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmDadosDoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmDadosDoUsuario.Designer.cs">
+      <DependentUpon>frmDadosDoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmDesktop.Designer.cs">
+      <DependentUpon>frmDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmDesligar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmDesligar.Designer.cs">
+      <DependentUpon>frmDesligar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmGerenciadorDeFicheiros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmGerenciadorDeFicheiros.Designer.cs">
+      <DependentUpon>frmGerenciadorDeFicheiros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmInformaçõesDoSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmInformaçõesDoSistema.Designer.cs">
+      <DependentUpon>frmInformaçõesDoSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmLigar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmLigar.Designer.cs">
+      <DependentUpon>frmLigar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmMemoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmMemoria.Designer.cs">
+      <DependentUpon>frmMemoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmStadoDaSegurança.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmStadoDaSegurança.Designer.cs">
+      <DependentUpon>frmStadoDaSegurança.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmBlocoDeNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmBlocoDeNotas.Designer.cs">
+      <DependentUpon>frmBlocoDeNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmNavegador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmNavegador.Designer.cs">
+      <DependentUpon>frmNavegador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmTermosDeUltilização.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmTermosDeUltilização.Designer.cs">
+      <DependentUpon>frmTermosDeUltilização.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmBemVindoInicializar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmBemVindoInicializar.Designer.cs">
+      <DependentUpon>frmBemVindoInicializar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmAcessibilidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmAcessibilidade.Designer.cs">
+      <DependentUpon>frmAcessibilidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmConfigurações.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmConfigurações.Designer.cs">
+      <DependentUpon>frmConfigurações.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmCalcularMédiaEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmCalcularMédiaEscolar.Designer.cs">
+      <DependentUpon>frmCalcularMédiaEscolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmCentralDeComandoGrape.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmCentralDeComandoGrape.Designer.cs">
+      <DependentUpon>frmCentralDeComandoGrape.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmLixeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmLixeira.Designer.cs">
+      <DependentUpon>frmLixeira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmDesktop2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmDesktop2.Designer.cs">
+      <DependentUpon>frmDesktop2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmAbrirArquivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmAbrirArquivos.Designer.cs">
+      <DependentUpon>frmAbrirArquivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBloquearPasta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBloquearPasta.Designer.cs">
+      <DependentUpon>frmBloquearPasta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCentralDeComandos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCentralDeComandos.Designer.cs">
+      <DependentUpon>frmCentralDeComandos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDefiniçõesDeTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDefiniçõesDeTela.Designer.cs">
+      <DependentUpon>frmDefiniçõesDeTela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDespertador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDespertador.Designer.cs">
+      <DependentUpon>frmDespertador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEncerrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEncerrar.Designer.cs">
+      <DependentUpon>frmEncerrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnviar_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnviar_email.Designer.cs">
+      <DependentUpon>frmEnviar_email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEscolher Programas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEscolher Programas.Designer.cs">
+      <DependentUpon>frmEscolher Programas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGeoLocalizacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGeoLocalizacao.Designer.cs">
+      <DependentUpon>frmGeoLocalizacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrapeReprodutorDeMusicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrapeReprodutorDeMusicas.Designer.cs">
+      <DependentUpon>frmGrapeReprodutorDeMusicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrapyDesenhar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrapyDesenhar.Designer.cs">
+      <DependentUpon>frmGrapyDesenhar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrapyVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrapyVideo.Designer.cs">
+      <DependentUpon>frmGrapyVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrayceInteração.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrayceInteração.Designer.cs">
+      <DependentUpon>frmGrayceInteração.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJanelasAbertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJanelasAbertas.Designer.cs">
+      <DependentUpon>frmJanelasAbertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLupa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLupa.Designer.cs">
+      <DependentUpon>frmLupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmMenuDeTransição.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmMenuDeTransição.Designer.cs">
+      <DependentUpon>frmMenuDeTransição.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu1.Designer.cs">
+      <DependentUpon>frmMenu1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu2.Designer.cs">
+      <DependentUpon>frmMenu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu3.Designer.cs">
+      <DependentUpon>frmMenu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu4.Designer.cs">
+      <DependentUpon>frmMenu4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuCentro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuCentro.Designer.cs">
+      <DependentUpon>frmMenuCentro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMeuIp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMeuIp.Designer.cs">
+      <DependentUpon>frmMeuIp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonalizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonalizar.Designer.cs">
+      <DependentUpon>frmPersonalizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmProgramasInstalados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmProgramasInstalados.Designer.cs">
+      <DependentUpon>frmProgramasInstalados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmSalvarArquivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmSalvarArquivos.Designer.cs">
+      <DependentUpon>frmSalvarArquivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPicGrape.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPicGrape.Designer.cs">
+      <DependentUpon>frmPicGrape.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\frmReiniciar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\frmReiniciar.Designer.cs">
+      <DependentUpon>frmReiniciar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTarefasDoDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTarefasDoDia.Designer.cs">
+      <DependentUpon>frmTarefasDoDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTsrd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTsrd.Designer.cs">
+      <DependentUpon>frmTsrd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWebcam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWebcam.Designer.cs">
+      <DependentUpon>frmWebcam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Interop.cs" />
+    <Compile Include="DAL\MediaFile.cs" />
+    <Compile Include="Modelo\Controle.cs" />
+    <Compile Include="DAL\Conexao.cs" />
+    <Compile Include="DAL\LoginDaoComandos.cs" />
+    <Compile Include="DAL\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DAL\WlanApi.cs" />
+    <EmbeddedResource Include="Apresentação\frmAutenticar.resx">
+      <DependentUpon>frmAutenticar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmBemVindo.resx">
+      <DependentUpon>frmBemVindo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmCalculadora.resx">
+      <DependentUpon>frmCalculadora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmCarregando.resx">
+      <DependentUpon>frmCarregando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmComprarLicença.resx">
+      <DependentUpon>frmComprarLicença.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmConectarWifi.resx">
+      <DependentUpon>frmConectarWifi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmDadosDoUsuario.resx">
+      <DependentUpon>frmDadosDoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmDesktop.resx">
+      <DependentUpon>frmDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmDesligar.resx">
+      <DependentUpon>frmDesligar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmGerenciadorDeFicheiros.resx">
+      <DependentUpon>frmGerenciadorDeFicheiros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmInformaçõesDoSistema.resx">
+      <DependentUpon>frmInformaçõesDoSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmLigar.resx">
+      <DependentUpon>frmLigar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmMemoria.resx">
+      <DependentUpon>frmMemoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmStadoDaSegurança.resx">
+      <DependentUpon>frmStadoDaSegurança.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmBlocoDeNotas.resx">
+      <DependentUpon>frmBlocoDeNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmNavegador.resx">
+      <DependentUpon>frmNavegador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmTermosDeUltilização.resx">
+      <DependentUpon>frmTermosDeUltilização.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmBemVindoInicializar.resx">
+      <DependentUpon>frmBemVindoInicializar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmAcessibilidade.resx">
+      <DependentUpon>frmAcessibilidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmConfigurações.resx">
+      <DependentUpon>frmConfigurações.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmCalcularMédiaEscolar.resx">
+      <DependentUpon>frmCalcularMédiaEscolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmCentralDeComandoGrape.resx">
+      <DependentUpon>frmCentralDeComandoGrape.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmLixeira.resx">
+      <DependentUpon>frmLixeira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmDesktop2.resx">
+      <DependentUpon>frmDesktop2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmAbrirArquivos.resx">
+      <DependentUpon>frmAbrirArquivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBloquearPasta.resx">
+      <DependentUpon>frmBloquearPasta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCentralDeComandos.resx">
+      <DependentUpon>frmCentralDeComandos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDefiniçõesDeTela.resx">
+      <DependentUpon>frmDefiniçõesDeTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDespertador.resx">
+      <DependentUpon>frmDespertador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEncerrar.resx">
+      <DependentUpon>frmEncerrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnviar_email.resx">
+      <DependentUpon>frmEnviar_email.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEscolher Programas.resx">
+      <DependentUpon>frmEscolher Programas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGeoLocalizacao.resx">
+      <DependentUpon>frmGeoLocalizacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrapeReprodutorDeMusicas.resx">
+      <DependentUpon>frmGrapeReprodutorDeMusicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrapyDesenhar.resx">
+      <DependentUpon>frmGrapyDesenhar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrapyVideo.resx">
+      <DependentUpon>frmGrapyVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrayceInteração.resx">
+      <DependentUpon>frmGrayceInteração.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJanelasAbertas.resx">
+      <DependentUpon>frmJanelasAbertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLupa.resx">
+      <DependentUpon>frmLupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmMenuDeTransição.resx">
+      <DependentUpon>frmMenuDeTransição.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu1.resx">
+      <DependentUpon>frmMenu1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu2.resx">
+      <DependentUpon>frmMenu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu3.resx">
+      <DependentUpon>frmMenu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu4.resx">
+      <DependentUpon>frmMenu4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuCentro.resx">
+      <DependentUpon>frmMenuCentro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMeuIp.resx">
+      <DependentUpon>frmMeuIp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonalizar.resx">
+      <DependentUpon>frmPersonalizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmProgramasInstalados.resx">
+      <DependentUpon>frmProgramasInstalados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmSalvarArquivos.resx">
+      <DependentUpon>frmSalvarArquivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPicGrape.resx">
+      <DependentUpon>frmPicGrape.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\frmReiniciar.resx">
+      <DependentUpon>frmReiniciar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTarefasDoDia.resx">
+      <DependentUpon>frmTarefasDoDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTsrd.resx">
+      <DependentUpon>frmTsrd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWebcam.resx">
+      <DependentUpon>frmWebcam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

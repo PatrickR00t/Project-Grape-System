@@ -1,0 +1,5 @@
+# Boas vindas ao repositório do projeto Grape System
+
+
+## Objetivo
+Quando concebi este projeto, minha intenção inicial era simplesmente obter uma noção de como seria construir um sistema operacional do zero, puramente por curiosidade e motivado pela vontade de aprender. Iniciei com a criação de programas com lógica e interfaces mais simplificadas. À medida que passava o tempo entre o desenvolvimento de uma aplicação e outra, novas ideias surgiam em minha mente. No entanto, minha falta de domínio em C# (C Sharp) me limitava, apesar de ter feito um curso técnico em tecnologia da informação em 2014, onde aprendi a desenvolver alguns programas nessa linguagem, não era o suficiente. Dessa forma, busquei ampliar meus conhecimentos por meio de fóruns, vídeos e livros, colocando em prática muitas das ideias que surgiram. Dediquei-me durante dois anos até chegar ao ponto em que se encontra atualmente o projeto. Devido à escassez de recursos, à dificuldade de conciliar o projeto com trabalho e estudos, tomei a decisão de interromper o desenvolvimento.
